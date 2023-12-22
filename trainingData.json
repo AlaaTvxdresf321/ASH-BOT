@@ -1,0 +1,9 @@
+{
+  "data": [
+    { "lastSixDigits": [1, 2, 3, 4, 5, 6], "label": 1 },
+    { "lastSixDigits": [6, 5, 4, 3, 2, 1], "label": 0 },
+    { "lastSixDigits": [3, 3, 3, 3, 3, 3], "label": 0 },
+    { "lastSixDigits": [9, 8, 7, 6, 5, 4], "label": 1 },
+    { "lastSixDigits": [0, 1, 0, 1, 0, 1], "label": 0 }
+  ]
+}
